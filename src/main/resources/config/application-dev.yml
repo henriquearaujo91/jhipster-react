@@ -60,7 +60,7 @@ spring:
   r2dbc:
     url: r2dbc:postgresql://localhost:5432/lab
     username: lab
-    password:
+    password: 1234
   thymeleaf:
     cache: false
   sleuth:
